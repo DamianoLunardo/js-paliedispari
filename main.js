@@ -18,11 +18,6 @@ if (isPalindrome(parola)) {
     console.log("La parola inserita non è palindroma");
 };
 
-//orda devo invertire la stringa
-function reverseString(string) {
-    return string.split('').reverse().join('');
-};
-
 
 //Pari e Dispari
 //L’utente sceglie pari o dispari e inserisce un numero da 1 a 5. 
