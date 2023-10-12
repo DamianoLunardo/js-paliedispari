@@ -29,3 +29,11 @@ function reverseString(string) {
 //Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione). 
 //Sommiamo i due numeri Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione) 
 //Dichiariamo chi ha vinto.
+
+//genero un numero casuale tra 1 e 5
+//verifico se il numero è pari
+//chiedo all'utente di scegliere pari o dispari e inserire numero tra 1 e 5
+//genero numero casuale per il computer
+//sommo i due numeri
+//verifico se la somma è pari o dispari
+//dichiaro chi ha vinto
