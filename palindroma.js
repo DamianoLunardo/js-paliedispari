@@ -5,11 +5,10 @@ console.log("Hello World!");
 
 //creo la funzione
 function isPalindrome(parola) {
-//devo avere tutta la parola in minuscolo e niente spazi
+//devo avere tutta la parola in minuscolo
 parola = parola.toLowerCase();
 let splitString = parola.split('');
 let reverseString = splitString.reverse();
-
 //verifico se la parola è uguale a la sua inversa
 return reverseString.join('') === parola;
 //return parola === parola.split('') .reverse() .join('');
